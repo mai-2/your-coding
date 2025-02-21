@@ -1,7 +1,7 @@
 new WOW().init();
 
 // swiper
-const swiper = new Swiper('.swiper-container', {
+const swiper = new Swiper('.swiper', {
     // Optional parameters
     loop: true,
     centeredSlides : true,
